@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "aos": "^2.3.4",
     "axios": "^0.20.0",
+    "http-errors": "^1.8.0",
     "newsapi": "^2.4.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
